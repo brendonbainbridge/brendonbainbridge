@@ -15,6 +15,12 @@ I'm Brendon, a student at Brigham Young University-Idaho interested in Cybersecu
 - Proficient in: Operating systems, Networking, and Cybersecurity
 - Skills: Linux, Networking, social networking, Outside the box thinking, Eager to learn
 
+## Projects im working on
+
+- Making a virtual network on a server 
+- Working on making my own locally run AI assistant
+- Working on making my own Linux Distro
+
 ## Let's Connect!
 
 - Here is my [LinkedIn](https://www.linkedin.com/in/brendon-bainbridge/) profile
